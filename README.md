@@ -1,7 +1,7 @@
 # Portfolio
 R Projects
 
-# [Project  1: Data cleaning ](https://github.com/malcolmpanama/python/blob/main/Data%20Science%20and%20Machine%20Learning/Data%20Cleaning/Wines%20data%20cleaning%20(1).ipynb)
+# [Project  1: Data cleaning ](https://github.com/sirmuzzamil/sirmuzzamil/blob/main/R%20Projects/Project_1.ipynb?short_path=39faa0a)
 * Data cleaning involve different techniques based on the problem and the data type. Different methods can be applied with each has its own trade-offs.
 * Overall, incorrect data is either removed, corrected, or imputed.
 * In this project I attempt to clean a database then use machine learning to predict the prices of the missing value
@@ -16,7 +16,7 @@ R Projects
 
 
 
-# [Project  2: Portfolio Organizer](https://github.com/malcolmpanama/python/blob/main/Finance/portfolio_showcase_simple_returns.py)
+# [Project  2: Portfolio Organizer](https://github.com/sirmuzzamil/sirmuzzamil/blob/main/R%20Projects/Project_2%20(2).ipynb)
 * A portfolio is a collection of financial investments like stocks ,this python program can help you keeps track of your stock information.
 * Using pandas , numpy and matplotlib for visualization
 * With this program we can keep track of:
