@@ -12,8 +12,8 @@ R Projects
 *	Replace Null values with 'Unknown' or 0 
 *	Replace missing values with predicted values 
 
-![](https://github.com/malcolmpanama/Malcolm_Portfolio/blob/main/images/download1.png?raw=true)
-
+![](https://github.com/sirmuzzamil/sirmuzzamil/blob/839b1486d4ded5b42af89fa7887f8da73116c72d/Portfolio/chrome_SKru20Olrk.png?raw=true)
+![](https://github.com/sirmuzzamil/sirmuzzamil/blob/839b1486d4ded5b42af89fa7887f8da73116c72d/Portfolio/chrome_ZRUt5vN9BM.png?raw=true)
 
 
 # [Project  2: Portfolio Organizer](https://github.com/sirmuzzamil/sirmuzzamil/blob/839b1486d4ded5b42af89fa7887f8da73116c72d/R%20Projects/Project_2%20(2).ipynb)
@@ -27,7 +27,4 @@ R Projects
 * Stock Variance
 * Yearly simple return
 
-![](https://github.com/malcolmpanama/Malcolm_Portfolio/blob/main/images/Figure_1.png?raw=true)
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="malcolm-d-daniels-abb7a4111" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tw.linkedin.com/in/malcolm-d-daniels-abb7a4111?trk=profile-badge">Malcolm D. Daniels</a></div>
-              
+![](https://github.com/sirmuzzamil/sirmuzzamil/blob/839b1486d4ded5b42af89fa7887f8da73116c72d/Portfolio/chrome_CFbbAckpK3.png?raw=true)
